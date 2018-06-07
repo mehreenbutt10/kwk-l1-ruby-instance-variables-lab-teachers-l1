@@ -5,7 +5,7 @@ class Dog
   end
   
   def name
-    @his_dogs_name
+    @this_dogs_name
   end
   
 lassie = Dog.new 
